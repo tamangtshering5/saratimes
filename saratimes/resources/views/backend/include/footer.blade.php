@@ -6,7 +6,7 @@
 </script>
 <footer>
     <div class="copyright-info">
-        <p class="pull-right">Licensed by  <a href="grafiastech.com">grafiastech.com</a>
+        <p class="pull-right">Licensed by  <a href="grafiastech.com">Grafiastech.com</a>
         </p>
     </div>
     <div class="clearfix"></div>
